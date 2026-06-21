@@ -10,10 +10,15 @@ Both are fixed current sources of 25 mA.
 The 2nd design has much better input impedance.
 
 Calculated Parameters:
+
 Compliance Voltage = 6.93 V 
+
 Maximum Load = 277 Ω
+
 Maximum Input Impedance (Initial design at maximum load voltage) = 5.128 kΩ
+
 Minimum Input Impedance (Initial design at minimum load voltage) = 200 Ω
+
 Input Impedance (Improved design) = Input Impedance of voltage follower
 
 Note: Initial design refers to the Howland current pump with no buffer for the reference voltage.
@@ -38,11 +43,17 @@ Updated Schematic:
 ![Schematic1](../Attachments/Schematic1.png)
 
 Both are fixed current sources of 5 mA
+
 Calculated Parameters:
+
 Compliance Voltage = 5.195 V 
+
 Maximum Load = 1039 Ω
+
 Maximum Input Impedance (Initial design at maximum load voltage) = 25.64 kΩ
+
 Minimum Input Impedance (Initial design at minimum load voltage) = 1 kΩ
+
 Input Impedance (Improved design) = Input Impedance of voltage follower
 
 # Simulation
@@ -113,13 +124,19 @@ Here, a pot was used to act as internal resistance for the voltage reference sou
 
 ### 5 mA Initial Design
 Load Current = 5.1 mA
+
 Compliance Voltage = 5.3 V 
+
 Maximum Load Resistance= 1.039 kΩ
+
 Input Impedance = very low
 
 ### 5 mA Improved Design
 Load Current = 5.1 mA
+
 Compliance Voltage = 5.3 V 
+
 Maximum Load Resistance= 1.039 kΩ
+
 Input Impedance = very high
 
