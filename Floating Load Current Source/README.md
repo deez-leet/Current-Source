@@ -39,7 +39,7 @@ DC Analysis
 
 ##  Results
 
-![Test1 1](Attachments/Test1%201.jpeg)
+![Test1 1](Attachments/Test1.jpeg)
 Two fixed current sources implemented using dual op-amps (LM358)
 
 ### Final Results
