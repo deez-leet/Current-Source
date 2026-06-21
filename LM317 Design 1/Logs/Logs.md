@@ -2,7 +2,7 @@
 
 Schematic
 
-![](Attachments/Schematic.png)
+![](../Attachments/Schematic.png)
 
 $R_{\text{sense}}$ = 125 Ω (Load Current = 10 mA)
 
@@ -17,7 +17,7 @@ This is assuming voltage drop across LM317 is 3 V (minimum drop out voltage from
 
 # Simulations
 
-![](Attachments/DCAnalysis.png)
+![](../Attachments/DCAnalysis.png)
 DC Analysis
 
 ![DCTransferCharacteristics1](../Attachments/DCTransferCharacteristics1.png)
