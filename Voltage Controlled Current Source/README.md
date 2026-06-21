@@ -8,9 +8,9 @@ A adjustable current source (i.e., voltage controlled current source) with maxim
 | Parameter                   | Value / Range |
 | :-------------------------- | :------------ |
 | **Input Voltage Supply**    | 12 V DC       |
-| **Reference Voltage **      | 0 - 5 V       |
-| **Maximum Load Current **   | 50 mA         |
-| **Minimum Load Current **   | 0 mA          |
+| **Reference Voltage**      | 0 - 5 V       |
+| **Maximum Load Current**   | 50 mA         |
+| **Minimum Load Current**   | 0 mA          |
 | **Output Voltage Range**    | 0 - 7 V       |
 | **Maximum Load Resistance** | 140 $\Omega$  |
 
@@ -30,10 +30,10 @@ DC Analysis
 
 ##  Results
 
-![489](Test10.jpeg)
+![489](Attachments/Test10.jpeg)
 Maximum output voltage at maximum load current of 50 mA using IRLZ44N as pass transistor
 
-![490](Test9.jpeg)
+![490](Attachments/Test9.jpeg)
 Maximum output voltage at maximum load current of 50 mA using BC547 as pass transistor
 
 
