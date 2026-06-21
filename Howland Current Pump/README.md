@@ -11,18 +11,18 @@ A fixed current source of 5 mA is implemented using Howland current pump with an
 | :-------------------------- | :------------- |
 | **Input Voltage Supply**    | 12 V DC        |
 | **Reference Voltage**       | 5 V DC         |
-| **Load Current **           | 5 mA           |
+| **Load Current**           | 5 mA           |
 | **Output Voltage Range**    | 0 - 5.3 V      |
-| **Maximum Load Resistance** | 1.03 k$\Omega$ |
+| **Maximum Load Resistance** | 1.03 $\text{k}\Omega$ |
 
 ##  Schematic
 
 
-![Schematic1New](Schematic1New.png)
+![Schematic1New](Attachments/Schematic1New.png)
 Howland Current Pump with very low input impedance
 
 
-![Schematic2New](Schematic2New.png)
+![Schematic2New](Attachments/Schematic2New.png)
 Howland Current Pump with very high input impedance
 
 ---
@@ -37,7 +37,7 @@ DC Analysis
 
 ##  Results
 
-![Test10](Test10.jpeg)
+![Test10](Attachments/Test10.jpeg)
 Improved Howland Current Pump driving a LED
 ### Final Results
 
@@ -45,7 +45,7 @@ Improved Howland Current Pump driving a LED
 | :----------------- | :-------------- | :------------- | ----------------- |
 | Load Current       | 5 mA            | 5.01 mA        | 5.1 mA            |
 | Compliance Voltage | 5.195 V         | 5.3 V          | 5.3 V             |
-| Maximum Load       | 1.039 k$\Omega$ | 1.05 k$\Omega$ | 1.039 k$\Omega$   |
+| Maximum Load       | 1.039 $\text{k}\Omega$ | 1.05 $\text{k}\Omega$ | 1.039 $\text{k}\Omega$   |
 
 **Conclusion:** - The mini project was Successful.
 - **Key Inference:** The poor input impedance of the original Howland current pump can be improved by adding a buffer stage (i.e., a voltage follower) for the reference voltage and thus the input impedance increases significantly (Input Impedance will be equal to input impedance of voltage follower).
