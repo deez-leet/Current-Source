@@ -9,8 +9,11 @@ $R_{\text{sense}}$ = 125 Ω (Load Current = 10 mA)
 $R_{\text{sense}}$ = 50 Ω (Load Current = 25 mA)
 
 Calculated Parameters:
+
 Compliance Voltage = 7.75 V (For load current of 10 mA and 25 mA)
+
 Maximum Load for load current of 10 mA = 775 Ω
+
 Maximum Load for load current of 25 mA = 310 Ω
 
 This is assuming voltage drop across LM317 is 3 V (minimum drop out voltage from datasheet), so the compliance voltage and maximum load calculated is conservative.
@@ -91,12 +94,16 @@ Load Current (left multimeter) and Output Voltage (right multimeter) when load h
 
 ### 10 mA Design
 Load Current = 10.1 mA
+
 Compliance Voltage = 10.01 V 
+
 Maximum Load Resistance= 1 kΩ
 
 ### 25 mA Design
 Load Current  = 23.3 mA
+
 Compliance Voltage = 9.88 V 
+
 Maximum Load Resistance = 424 Ω
 
 The designed current source worked as expected. The 10 mA design provided a stable 10.1 mA and the 25 mA design provided a stable 23.3 mA (error due to sense resistor tolerance). The current in both designs remained constant for varying loads. The compliance voltage for the 10 mA design came out around 10 V and for the 25 mA design came out around 9.9 V. The compliance voltage came out much higher than the calculated one, but it was slightly lower as compared to the simulations (10.25 V). This can be explained by the low dropout voltage of LM317 at low load currents. Maximum Load for 10 mA design is 1 kΩ and for 25 mA design is 424 Ω
