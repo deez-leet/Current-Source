@@ -4,8 +4,9 @@ Schematic
 
 ![](Attachments/Schematic.png)
 
-R$_{sense}$ = 125 Ω (Load Current = 10 mA)
-R$_{sense}$ = 50 Ω (Load Current = 25 mA)
+$R_{\text{sense}}$ = 125 Ω (Load Current = 10 mA)
+
+$R_{\text{sense}}$ = 50 Ω (Load Current = 25 mA)
 
 Calculated Parameters:
 Compliance Voltage = 7.75 V (For load current of 10 mA and 25 mA)
