@@ -26,7 +26,7 @@ A fixed current source of 10 mA and 25 mA implemented using LM317.
 ##  Schematic
 
 
-![](Schematic.png)
+![](Attachments/Schematic.png)
 
 ---
 
