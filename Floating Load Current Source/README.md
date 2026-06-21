@@ -26,7 +26,7 @@ A fixed current source of 10 mA and 20 mA implemented using LM358 OP-AMP.
 ##  Schematic
 
 
-![Schematic](Schematic.png)
+![Schematic](Attachments/Schematic.png)
 
 ---
 
@@ -39,7 +39,7 @@ DC Analysis
 
 ##  Results
 
-![Test1 1](Test1%201.jpeg)
+![Test1 1](Attachments/Test1%201.jpeg)
 Two fixed current sources implemented using dual op-amps (LM358)
 
 ### Final Results
