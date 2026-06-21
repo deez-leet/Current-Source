@@ -12,7 +12,7 @@ A fixed current source of 10 mA and 25 mA implemented using LM317.
 | **Input Voltage**           | 12 V DC       |
 | **Load Current **           | 10 mA         |
 | **Output Voltage Range**    | 0 - 10 V      |
-| **Maximum Load Resistance** | 1 k$\Omega$   |
+| **Maximum Load Resistance** | 1 k $\Omega$  |
 
 ### 25 mA Fixed Current Source
 
