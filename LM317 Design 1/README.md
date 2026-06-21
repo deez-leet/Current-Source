@@ -40,10 +40,10 @@ DC Analysis
 ##  Results
 
 
-![](Attachments/Test1.jpg|512)
+![](Attachments/Test1.jpg)
 Fixed current source of 10 mA with 4 LEDs as load
 
-![](Attachments/Test5.jpg|510)
+![](Attachments/Test5.jpg)
 Fixed current source of 25 mA with 3 LEDs as load
 ### Final Results
 
